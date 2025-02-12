@@ -1,68 +1,68 @@
 Tutoriels[/]
 Akenbak
-Visuels génératifs par le code
-- [](https://alltd.org/uploader/akenbak/)
+
+- [Visuels génératifs par le code](https://alltd.org/uploader/akenbak/)
 
 Bileam Tschepe
-Beaucoup de tutoriels variés de débutant à intermédiaire et série de vidéos d'introduction à TouchDesigner
-- [](https://alltd.org/uploader/bileamtschepe/)
+
+- [Beaucoup de tutoriels variés de débutant à intermédiaire et série de vidéos d'introduction à TouchDesigner](https://alltd.org/uploader/bileamtschepe/)
 
 Bryan Chung
-Techniques variées de systèmes interactifs et d’intégration de tiers partis
-- [](https://alltd.org/uploader/bryanchung/?view=videos)
+
+- [Techniques variées de systèmes interactifs et d’intégration de tiers partis](https://alltd.org/uploader/bryanchung/?view=videos)
 
 Claude
-Tutoriels pour système de particules
-- [](https://alltd.org/uploader/claude/)
+
+- [Tutoriels pour système de particules](https://alltd.org/uploader/claude/)
 
 exsstas
-Tutoriels pour l'apprentissage des shaders GLSL
-- [](https://alltd.org/uploader/exsstas/)
+
+- [Tutoriels pour l'apprentissage des shaders GLSL](https://alltd.org/uploader/exsstas/)
 
 Lake Heckaman
-Apprentissage des shaders, de techniques avancées et de visualisation de données d’API web
-- [](https://alltd.org/uploader/lakeheckaman/)
+
+- [Apprentissage des shaders, de techniques avancées et de visualisation de données d’API web](https://alltd.org/uploader/lakeheckaman/)
 
 Matthew Ragan & MIR
-Tutoriels variés plus anciens mais toujours pertinents. Série sur la programmation Python.
-- [](https://alltd.org/uploader/matthewragan/)
-- [](https://alltd.org/uploader/mir/)
+ 
+- [Tutoriels variés plus anciens mais toujours pertinents.](https://alltd.org/uploader/matthewragan/)
+- [Série sur la programmation Python.](https://alltd.org/uploader/mir/)
 
 Noto The Talking Ball
-Tutoriels divertissants sur techniques variées
-- [](https://alltd.org/uploader/notothetalkingball/)
+
+- [Tutoriels divertissants sur techniques variées](https://alltd.org/uploader/notothetalkingball/)
 
 Owen Kirby
-Création audio avec TouchDesigner
-- [](https://alltd.org/uploader/owenkirby/)
+
+- [Création audio avec TouchDesigner](https://alltd.org/uploader/owenkirby/)
 
 paketa12
-Utilisation originale de TouchDesigner en codant avec des des textures (images). Technique avancée
-- [](https://alltd.org/uploader/paketa12/)
+
+- [Utilisation originale de TouchDesigner en codant avec des des textures (images). Technique avancée](https://alltd.org/uploader/paketa12/)
 
 Pao Olea
-Beaucoup de tutoriels pour création de visuels génératifs
-- [](https://alltd.org/uploader/paoolea/)
+
+- [Beaucoup de tutoriels pour création de visuels génératifs](https://alltd.org/uploader/paoolea/)
 
 Programming for People
-Tutoriels sur techniques variées intermédiaires et avancées
-- [](https://alltd.org/uploader/programmingforpeople/)
+
+- [Tutoriels sur techniques variées intermédiaires et avancées](https://alltd.org/uploader/programmingforpeople/)
 
 Stanislav Glazov
-Série intéressante sur les SOPs
-- [](https://alltd.org/uploader/stanislavglazov/)
+
+- [Série intéressante sur les SOPs](https://alltd.org/uploader/stanislavglazov/)
 
 Supermarket Sallad
-Systèmes de particules avec des TOPs
-- [](https://alltd.org/uploader/supermarketsallad/)
+
+- [Systèmes de particules avec des TOPs](https://alltd.org/uploader/supermarketsallad/)
 
 The Interactive & Immersive HQ
-Vidéos sur sujets variés en lien avec TouchDesigner et le métier de technologue créatif. Voir aussi leur blog.
-- [](https://alltd.org/uploader/theinteractiveimmersivehq/)
+
+- [Vidéos sur sujets variés en lien avec TouchDesigner et le métier de technologue créatif. Voir aussi leur blog.](https://alltd.org/uploader/theinteractiveimmersivehq/)
 
 Touchdesigner
-La série InSession permet de voir les projets de différents créateurs avec les conseils de l’équipe de Derivative.
-- [](https://alltd.org/uploader/touchdesigner/)
+.
+- [La série InSession permet de voir les projets de différents créateurs avec les conseils de l’équipe de Derivative](https://alltd.org/uploader/touchdesigner/)
 
 Créateurs
 - [paketa12](https://www.instagram.com/paketa12/)
